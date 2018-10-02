@@ -5,12 +5,12 @@ This Wiki documents the technical development process of the Sonnenglas Sirius. 
 
 Shortlinks to sections
 
-- [General concept](general)
- - [General technical concept](general/conceptional_research.md)
- - [Feature list](general/feature_list.md)
- - [Legal and license issues](general/license and legal issues.md)
-- [Product teardowns](teardown)
- - [Philips Hue Go](teardown/Philips Hue Go.md) 
-- [Hardware](hardware)
- - [Hardware Research](hardware/hardware_research.md)
-- [Software](software)
+- General concept
+ - [General technical concept](general/conceptional_research)
+ - [Feature list](general/feature_list)
+ - [Legal and license issues](general/license and legal issues)
+- Product teardowns
+ - [Philips Hue Go](teardown/Philips Hue Go) 
+- Hardware]
+ - [Hardware Research](hardware/hardware_research)
+- Software
