@@ -16,7 +16,7 @@ Shortlinks to sections
  - [Roome Light Air Touch](Teardown/Roome Light Air Touch)
  - [Roome Mini Plus](Teardown/Roome Mini Plus)
  - [Xiaomi Yeelight Candela](Teardown/Yeelight Candela)
- - [Xiaomi Yeelight RGB Strip]()
+ - [Xiaomi Yeelight RGB Strip](Teardown/Yeelight Light Strip)
  - [NetAtmo Room Sensor](Teardown/NetAtmo)
 - Hardware
  - [Hardware Research](Hardware/Hardware Research)
