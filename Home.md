@@ -20,4 +20,8 @@ Shortlinks to sections
  - [NetAtmo Room Sensor](Teardown/NetAtmo)
 - Hardware
  - [Hardware Research](Hardware/Hardware Research)
+ - [MCU Overview](Hardware/MCU Overview)
+ - [Air Quality Measuring](Hardware/Air Quality Measuring)
+ - [Air Quality Sensor](Hardware/Air Quality Sensor)
+ - [Shopping List](Hardware/Shopping List)
 - Software

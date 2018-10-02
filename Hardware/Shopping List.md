@@ -19,14 +19,11 @@
 ## Hardware Prototype Parts
 - [ ] Adafruit NeoPixel Ring - 12 x 5050 RGBW
 - [ ] Adafruit NeoPixel Jewel-7 x 5050 RGBW
-- [ ] Touch screen (Nintendo DSL digitizer)
-- [ ] Adafruit Touch screen breakout board
-- [ ] Pimoroni Skywriter
-- [ ] Seeed Studio Grove - I2C Touch Sensor
-- [ ] Rotary Encoder - Illuminated (RGB) + Plastik-Drehknopf + Rotary Encoder Breakout - Illuminated
-- [ ] Induktives Ladegerät (Bausatz)
-- [ ] Particle Power Shield
-- [ ] LiPo Akku 1400mAh
+- [x] Touch screen (Nintendo DSL digitizer)
+- [x] Adafruit Touch screen breakout board
+- [x] Pimoroni Skywriter
+- [x] Seeed Studio Grove - I2C Touch Sensor
+- [x] Rotary Encoder - Illuminated (RGB) + Plastik-Drehknopf + Rotary Encoder Breakout - Illuminated
+- [x] Particle Power Shield
 - [ ] Anker PowerPort Wireless Charger
-- [ ] Universal Qi Wireless
- 
+- [x] Universal Qi Wireless Charging Module 
