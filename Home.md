@@ -11,6 +11,6 @@ Shortlinks to sections
  - [Legal and License Issues](General/License and Legal Issues)
 - Product Teardowns
  - [Philips Hue Go](Teardown/Philips Hue Go) 
-- Hardware]
+- Hardware
  - [Hardware Research](Hardware/Hardware Research)
 - Software
