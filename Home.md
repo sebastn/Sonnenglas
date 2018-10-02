@@ -11,6 +11,13 @@ Shortlinks to sections
  - [Legal and License Issues](General/License and Legal Issues)
 - Product Teardowns
  - [Philips Hue Go](Teardown/Philips Hue Go) 
+ - [Philips Hue Bridge](Teardown/Philips Hue Bridge)
+ - [Osram Lightify RGBW Strip](Teardown/Osram Lightify)
+ - [Roome Light Air Touch](Teardown/Roome Light Air Touch)
+ - [Roome Mini Plus](Teardown/Roome Mini Plus)
+ - [Xiaomi Yeelight Candela](Teardown/Yeelight Candela)
+ - [Xiaomi Yeelight RGB Strip]()
+ - [NetAtmo Room Sensor](Teardown/NetAtmo)
 - Hardware
  - [Hardware Research](Hardware/Hardware Research)
 - Software
