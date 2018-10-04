@@ -80,6 +80,6 @@ The **SGP30** sensor is almost similiar to CMS811 except that it calculates the 
 
 | IAQ Sensor        | eCO2           | eTVOC  | Price |
 | ------------- |:-------------:| :-----:|:-----:|
-| CMS811     | 400 ppm to 8192 ppm | 0 ppb up to 32768 ppb | $7.25
+| CMS811     | 400 ppm to 32768 ppm | 0 ppb up to 32768 ppb | $7.25
 | Adafruit CMS811     | 400 ppm to 8192 ppm      |   0 ppb to 1187 ppb | $19.95
 | Adafruit SGP30 | 0 – 60,000 ppm     |    0 – 60,000 ppb |  €16,96
