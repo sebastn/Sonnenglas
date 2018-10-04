@@ -38,7 +38,20 @@ The expected output on an Arduino is as follows:
 
 ![](images/CCS811 output.png)
 
-### 2. Adafruit SGP30 Air Quality Sensor Breakout - VOC and eCO2 - Unit Price - 16,96 €
+### 2. SparkFun Air Quality Breakout - CCS811 - VOC and eCO2 - Unit Price - 16,89 €
+
+[Buy](https://www.digikey.de/product-detail/en/sparkfun-electronics/SEN-14193/1568-1597-ND/7066452)
+
+[Datasheet](https://media.digikey.com/pdf/Data%20Sheets/Sparkfun%20PDFs/SEN-14193_Web.pdf)
+
+![](images/sparkfun.jpg)
+
+This breakout board is literally the same as the Adafruit one and it uses the same IAQ sensor - CCS811 ams sensor. All the features are identical as the previous one. More documentation is available from Sparkfun which includes a Hook-up guide and a sample [Air Quality Measurement Study results](https://media.digikey.com/pdf/Data%20Sheets/Sparkfun%20PDFs/AirQualityMeasurementswith_CCS811_Web.pdf).
+
+They also offer the Sparkfun CCS811 Arduino Library and interfacing guide. Also, Sparkfun offers live tech chat support.
+
+
+### 3. Adafruit SGP30 Air Quality Sensor Breakout - VOC and eCO2 - Unit Price - 16,96 €
 [Buy](https://eu.mouser.com/ProductDetail/Adafruit/3709?qs=rrS6PyfT74crPlmcf95bYg%3d%3d)
 
 [Datsheet](https://eu.mouser.com/datasheet/2/737/adafruit-sgp30-gas-tvoc-eco2-mox-sensor-1396564.pdf)
@@ -78,8 +91,11 @@ It seems the  **CMS811** is the popular IAQ sensor in the market and it is reall
 
 The **SGP30** sensor is almost similiar to CMS811 except that it calculates the eCO2 reading from H2 concentration and hence it is not a 'true' CO2 sensor.
 
-| IAQ Sensor        | eCO2           | eTVOC  | Price |
-| ------------- |:-------------:| :-----:|:-----:|
-| CMS811     | 400 ppm to 32768 ppm | 0 ppb up to 32768 ppb | $7.25
-| Adafruit CMS811     | 400 ppm to 8192 ppm      |   0 ppb to 1187 ppb | $19.95
-| Adafruit SGP30 | 0 – 60,000 ppm     |    0 – 60,000 ppb |  €16,96
+| IAQ Sensor        | eCO2                      | eTVOC                           | Price |
+| -------------     |:-------------:            | :-----:                         |:-----:|
+| **CMS811    **        | 400 ppm to 32768 ppm      | 0 ppb up to 32768 ppb           | $7.25
+| Adafruit CMS811   | 400 ppm to 8192 ppm       |   0 ppb to 1187 ppb             | $19.95
+| **Sparkfun CMS811 **  | 400 ppm to 8192 ppm       | 0 ppb to 1187 ppb  |  €16,89  |
+| Adafruit SGP30    | 0 – 60,000 ppm            |    0 – 60,000 ppb               |  €16,96
+| [MiCS-VZ-89TE](https://www.sgxsensortech.com/content/uploads/2016/07/MiCS-VZ-89TE-V1.0.pdf)       | 400-2000 ppm             | 0-1000 ppb                      |  €12.27 per 500 u
+|   |   |   |   |
