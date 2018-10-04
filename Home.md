@@ -23,5 +23,6 @@ Shortlinks to sections
  - [MCU Overview](Hardware/MCU Overview)
  - [Air Quality Measuring](Hardware/Air Quality Measuring)
  - [Air Quality Sensor](Hardware/Air Quality Sensor)
+ - [Indoor Air Quality Sensors](Hardware/Indoor Air Quality Sensors)
  - [Shopping List](Hardware/Shopping List)
 - Software
