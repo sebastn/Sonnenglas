@@ -24,5 +24,7 @@ Shortlinks to sections
  - [Air Quality Measuring](Hardware/Air Quality Measuring)
  - [Air Quality Sensor](Hardware/Air Quality Sensor)
  - [Indoor Air Quality Sensors](Hardware/Indoor Air Quality Sensors)
+ - [Bare Conductive Technology](Hardware/Bare Conductive)
+ - [Flick Technology](Hardware/Flick)
  - [Shopping List](Hardware/Shopping List)
 - Software
