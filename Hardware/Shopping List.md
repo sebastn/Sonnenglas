@@ -12,13 +12,13 @@
 ## Development Kits
 - [x] STM32LF Discovery Kit IoT Node
 - [ ] LAUNCHXL-CC26X2R1 (2x)
-- [ ] nRF52840-DK (2x)
-- [ ] nRF52840-Dongle (2x)
+- [x] nRF52840-DK (2x)
+- [x] nRF52840-Dongle (2x)
 - [ ] Raytac BT5 Module Demo Board (2x)
 
 ## Hardware Prototype Parts
-- [ ] Adafruit NeoPixel Ring - 12 x 5050 RGBW
-- [ ] Adafruit NeoPixel Jewel-7 x 5050 RGBW
+- [x] Adafruit NeoPixel Ring - 12 x 5050 RGBW
+- [x] Adafruit NeoPixel Jewel-7 x 5050 RGBW
 - [x] Touch screen (Nintendo DSL digitizer)
 - [x] Adafruit Touch screen breakout board
 - [x] Pimoroni Skywriter
