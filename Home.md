@@ -9,6 +9,8 @@ Shortlinks to sections
  - [General Technical Concept](General/Conceptional Research)
  - [Feature List](General/Feature List)
  - [Legal and License Issues](General/License and Legal Issues)
+- Customer Reviews
+ - [Philips Hue Go](General/Customer Reviews)
 - Product Teardowns
  - [Philips Hue Go](Teardown/Philips Hue Go) 
  - [Philips Hue Bridge](Teardown/Philips Hue Bridge)
