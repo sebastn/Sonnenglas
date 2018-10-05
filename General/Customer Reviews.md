@@ -2,6 +2,8 @@
 
 ### Philips Hue Go
 
+![](images/Philips Hue Go/0.png)
+
 ##### Pros
 
 1. Candlelight Effect
@@ -31,3 +33,28 @@
 
 ##### Wish List
 - One desire would be for the light to be brighter, however, the light level is comfortable for your eyes when in direct line of sight.
+
+
+### Philips Hue Bridge
+
+![](images/Philips Hue Bridge/0.png)
+
+
+##### Pros
+- Very simple to set up and sync with the app. Takes just less than 10 minutes.
+
+- The new hub is much more powerful compared to the previous generation and for customers having a lot of Hue Devices, the issues of lag and inconsistency (which they faced on the previous generation Hub) were fixed.
+
+- Works well with Echo Dot to handle a multitude of Smarthome devices.
+
+
+##### Cons
+- Some people have brought this up as a negative even though it is not that complicated. The Hue bridge need to be connected to internet via ethernet (LAN Cable).
+
+- While it is advertised that all of the bulbs are compatible with the Amazon Echo Plus (which is a hub of its own) and that is TECHNICALLY true, you will not be able to control the bulbs fully (changing colors quickly and easily, using Hue Disco, Hue Mood, etc) unless you buy the Philips Hue Smart Hub IN ADDITION to the Echo Plus that you already paid a lot of money for.
+
+- For those looking at the bridge, if you only need to turn on and off the lights, just stick with the echo, it works great. If you need schedules or time settings for the lights, you'll need this but be ready for a little extra time and effort to get it going.
+
+
+##### Wish List
+- The Hub does not back up your programmed routines and rooms and lights to your device you've used to set up the Hue system. It is all saved within this Hub - so if you fry it, you have to teach a new one everything all over again by hand.
