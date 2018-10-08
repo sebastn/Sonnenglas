@@ -108,3 +108,26 @@
 ##### Wish List
 - Higher battery capacity
 - WiFi Capability and hence integration with Alexa, Siri or Google Home.
+
+### Yeelight Smart Strip
+![](images/Yeelight Smart Strip/0.jpg)
+
+##### Pros
+- Voice Control: work with Amazon Alexa, Google Assistant for voice control, and IFTTT
+- Group Control: Set groups to control multi strips or other YEELIGHT products all together
+- No Bridge required: Yeelight has wifi built in and the device is standalone. It doesn't require a hub (like in the case of Philips - Hue Bridge) to have its full functionality.
+- Inexpensive ($39,99) compared to Philips Hue Lightstrip ($59,99) and needs no additional devices like a Hub which really gives the product an edge in the market.
+
+
+##### Cons
+- Does not work with Apple HomeKit
+- Some users have reported that the **WiFi connections falls repeatedly**. The connection can't be restored unless the Light strip is power cycled.
+- People who were satisfied with the product initially have changed their reviews later on stating that the WiFi falling issue is serious making the product almost unusable.
+
+##### Wish List
+- Wireless dimmer switch or controller Remote
+- HomeKit Integration
+
+## Things to keep in mind for Sirius
+1. Ensure that the WiFi connection is stable under continuous use and it never drops.
+2. A wireless remote which can work as a dimmer/power ON-OFF switch would be good. This can be offered as an add-on product for the customers who feel they need it. (Philips Hue system offers a smart [smart dimmer switch](https://goo.gl/VAJ1WU) as an add on product for $24,99.
