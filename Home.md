@@ -1,3 +1,7 @@
+# Sonnenglas Sirius
+
+![sirius-1021x520](/uploads/256967819a6c192c952317fd444e936f/sirius-1021x520.jpg)
+
 Sonnenglas Sirius will become a new product line of Sonnenglas.
 Bright as the star Sirius, the new Sonnenglases will be connected and smart devices, incorporating unique and noble design, making them a highlight functional accessory for every modern home.
 
