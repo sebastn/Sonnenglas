@@ -29,3 +29,4 @@ Shortlinks to sections
  - [Flick Technology](Hardware/Flick)
  - [Shopping List](Hardware/Shopping List)
 - Software
+ - [Software Research](Software/Software Research)
