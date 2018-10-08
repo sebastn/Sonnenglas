@@ -17,7 +17,7 @@ The removal of the plastic casing exposes the PCB board which houses the LEDs an
 
 Beneath the PCB Board there's a metal weight which serves the purpose of balanceing the light in an inclined position and also in adding up to the weight of the lamp which otherwise would be too light.
 
-###4.
+### 4.
 ![](/Teardown/images/Philips Hue Go/4.jpg)
 
 Upon removal of the metal weight, we can see the battery holder and 2 X **3.7 V** AA Li-ion Batteries (14500 size battery each ***680mAh***). The lamp lasts for upto ***3 hours*** on battery.
