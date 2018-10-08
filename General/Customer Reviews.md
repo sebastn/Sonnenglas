@@ -92,4 +92,19 @@
 ##### Cons
 - The controls are not clearly labelled and the customers can get confused between the standby mode and power off mode. However the user guide which came along with the lamp explained the instructions clearly.
 - The device is supposedly having a pseudo-wireless charging feature. The charging base has two contacts which should accurately come in contact with the chargin terminals on the lamp and the lamp will charge only if this happens. So it's kind of a gimmick and not really wireless charging.
-- Out of the few reviews on amazon, one customer soon returned the lamp stating that it was not user friendly - this might be because of the trouble in setting up the lamp. The Roome app is not good (the QR code on their user guide returns an error 404 and one should manually search and install the app) and the device pairing with the lamp is also not hassle free. 
+- Out of the few reviews on amazon, one customer soon returned the lamp stating that it was not user friendly - this might be because of the trouble in setting up the lamp. The Roome app is not good (the QR code on their user guide returns an error 404 and one should manually search and install the app) and the device pairing with the lamp is also not hassle free.
+
+### Yeelight Candela
+![](images/Yeelight Candela/0.jpg)
+
+##### Pros
+- Bluetooth mesh feature lets you control a group of Yeelight Candelas together. Group control was appreciated by many customers.
+- The Candlelight flicker mode (even though not the best in the market) was found to be attractive for many users to set romantic mood or for a mood to narrate bedtime stories to children.
+
+##### Cons
+- It has only bluetooth and no WiFi and hence it can't possibly work with IFTTT, Smart Thing etc even in the future.
+- Limited battery backup - 7 hours as mentioned by the customer (Yeelight promises 8 hours of continuous use on a single charge).
+
+##### Wish List
+- Higher battery capacity
+- WiFi Capability and hence integration with Alexa, Siri or Google Home.
