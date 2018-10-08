@@ -91,3 +91,18 @@
 
 
 ##### Wish List
+
+
+### Roomelight Air Touch
+![](images/Roomelight Air Touch/0.jpg)
+
+##### Pros
+- The built-in speaker could be used as a wake-up alarm. However, the quality of the speaker is not that great.
+- The USB charging ports were found to be useful for some of the customers. 
+
+##### Cons
+- While it can be used as a bedside lamp, some customers reported that the light came ON several times in the night (because of the motion sensor it has) and it was disturbing their sleep. If it were to be used as a bedside lamp, it was better to turn off the lamp completely at night.
+- The Roome App is a total disaster. You need to register with your mail/phone number before you can pair your device with the lamp. Customers also reported to have faced issues while trying to set up the lamp. The lamp was not being detected with the device and at times it the app was not pairing with the device.
+- The brightness adjustment using gesture control was erratic.
+
+##### Wish List
