@@ -4,32 +4,32 @@ The file includes the various steps involved in the teardown of **Philips Hue Go
 
 ## Teardown Procedure
 ### 1. 
-![The base layer is pried open](Teardown/images/Philips Hue Go/1.jpg)
+![The base layer is pried open](images/Philips Hue Go/1.jpg)
 
 The base layer (Reflector/Light diffuser?) is pried open and the the 4 LEDs are exposed. It's expected that the LEDs are RGBW and are the primary components of the Philip Hue Go.
 
 ### 2.
-![](Teardown/images/Philips Hue Go/2.jpg)
+![](images/Philips Hue Go/2.jpg)
 
 The removal of the plastic casing exposes the PCB board which houses the LEDs and also the remaining components involved in the circuit.
 ### 3.
-![](Teardown/images/Philips Hue Go/3.jpg)
+![](images/Philips Hue Go/3.jpg)
 
 Beneath the PCB Board there's a metal weight which serves the purpose of balanceing the light in an inclined position and also in adding up to the weight of the lamp which otherwise would be too light.
 
 ### 4.
-![](Teardown/images/Philips Hue Go/4.jpg)
+![](images/Philips Hue Go/4.jpg)
 
 Upon removal of the metal weight, we can see the battery holder and 2 X **3.7 V** AA Li-ion Batteries (14500 size battery each ***680mAh***). The lamp lasts for upto ***3 hours*** on battery.
 
 ### 5.
-![](Teardown/images/Philips Hue Go/5.jpg)
+![](images/Philips Hue Go/5.jpg)
 
 The image shows the battery holder and the connection which goes to the PCB. Beneath this board is a push button on the Hue go which controls the different modes of the lamp.
 
 
 ## PCB and Components
-![enter image description here](Teardown/images/Philips Hue Go/6.jpg)
+![enter image description here](images/Philips Hue Go/6.jpg)
 
 The PCB does not seem to be too complicated but it is well designed and well laid out (as compared to the Roome Device which was also tore down on 18th September 2018).
 
