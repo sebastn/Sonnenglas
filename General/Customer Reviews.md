@@ -130,4 +130,4 @@
 
 ## Things to keep in mind for Sirius
 1. Ensure that the WiFi connection is stable under continuous use and it never drops.
-2. A wireless remote which can work as a dimmer/power ON-OFF switch would be good. This can be offered as an add-on product for the customers who feel they need it. (Philips Hue system offers a smart [smart dimmer switch](https://goo.gl/VAJ1WU) as an add on product for $24,99.
+2. A wireless remote which can work as a dimmer/power ON-OFF switch would be good. This can be offered as an add-on product for the customers who feel they need it. (Philips Hue system offers a smart [smart dimmer switch](https://goo.gl/VAJ1WU) as an add on product for $24,99).
