@@ -7,17 +7,24 @@
 ##### Pros
 
 1. Candlelight Effect
+
     - The Philips Hue Go supports the Candlelight effect feature as part of the HueLabs section in the Hue app and many users have reported that this is an awesome feature and are reeally happy with the effect.
     - The candle setting is the family favorite for most situations. The gentle flickering of soft yellow light is a great imitation of candle-light and a relaxing, much-used effect.
+
 2. Design, Light and Colour Range
+
     - Produces a decent amount of light and the color range is amazing.
     - Minimalist clean design
     - Lights up in 16 million colors
     - Alarm and timer features
+
+
 3. Seamless Functioning
+
     - The [Hue Smart Bridge](https://www.amazon.com/Philips-Hue-Smart-Bridge-Compatible-with-Amazon-Alexa-Apple-HomeKit-and-Google-Assistant/dp/B014H2P42K/ref=cm_cr_dp_d_rvw_txt?ie=UTF8) and the [Hue Dimmer](https://www.amazon.com/Philips-Hue-Smart-Dimmer-Switch-with-Remote-Installation-Free-Exclusive-for-Philips-Hue-Lights/dp/B0167Z0P3I/ref=cm_cr_dp_d_rvw_txt?ie=UTF8) which in combo permit control by both the Hue Dimmer control or by using voice commands through Amazon's Echo works perfectly with the Hue Go.
     - Works with IFTTT and many third-party Hue apps
     - Ambify (third party app) lets you sync the Hue lights with iTunes music which was a feature upvoted by many customers
+
 
 
 ##### Cons
@@ -29,6 +36,7 @@
 ![](images/Philips Hue Go/1.png)
 - Basic and Mediocre app - The alarm and timer feature doesn't work properly (as reported by many users)
 - Non-replaceable battery and bulb
+
 
 
 ##### Wish List
@@ -81,20 +89,5 @@
 - The connecting cable is unfortunately a bit short.
 
 
-
-##### Wish List
-
-
-### Roomelight Air Touch
-![](images/Roomelight Air Touch/0.jpg)
-
-##### Pros
-- The built-in speaker could be used as a wake-up alarm. However, the quality of the speaker is not that great.
-- The USB charging ports were found to be useful for some of the customers. 
-
-##### Cons
-- While it can be used as a bedside lamp, some customers reported that the light came ON several times in the night (because of the motion sensor it has) and it was disturbing their sleep. If it were to be used as a bedside lamp, it was better to turn off the lamp completely at night.
-- The Roome App is a total disaster. You need to register with your mail/phone number before you can pair your device with the lamp. Customers also reported to have faced issues while trying to set up the lamp. The lamp was not being detected with the device and at times it the app was not pairing with the device.
-- The brightness adjustment using gesture control was erratic.
 
 ##### Wish List
