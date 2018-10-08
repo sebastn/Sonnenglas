@@ -128,6 +128,23 @@
 - Wireless dimmer switch or controller Remote
 - HomeKit Integration
 
+### Netatmo Healthy Home Coach
+![](images/Netatmo Healthy Home Coach/0.jpg)
+
+##### Pros
+- Works with Apple HomeKit and Siri.
+- The app is great and the customers are highly satisfied with it.
+- For a normal customer who is unaware of the working of the product or the components inside the product, the customer considers the product value for money and is very happy with the performance of the product. Around 50% of the customer reviews on Amazon are 5 stars. But for a little bit tech savvy customers, they believe that the product is overpriced.
+
+##### Cons
+- Does not work with Alexa, IFTTT, Google Home etc.
+- Measures only CO2 to indicate air quality and the response from their official customer support on Amazon is:
+
+  ```It measures CO2 levels but does not measure particles or gases. The CO2 levels and the alerts let you know when you need to open your window to lower your indoor air pollution. Other sensors are not used as they can be misleading. For instance, some sensors measure "total VOCs", which basically is like adding peaches and apples as many VOCs are not harmful at all for human.```
+
+- Customers have named the product as a WiFi thermometer and a CO2 Monitor which is true to be honest. The product is overpriced for what it does.
+- Customers had trouble pairing the product with their apple devices. 
+
 ## Things to keep in mind for Sirius
 1. Ensure that the WiFi connection is stable under continuous use and it never drops.
 2. A wireless remote which can work as a dimmer/power ON-OFF switch would be good. This can be offered as an add-on product for the customers who feel they need it. (Philips Hue system offers a smart [smart dimmer switch](https://goo.gl/VAJ1WU) as an add on product for $24,99).
