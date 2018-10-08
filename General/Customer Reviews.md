@@ -143,7 +143,7 @@
   ```It measures CO2 levels but does not measure particles or gases. The CO2 levels and the alerts let you know when you need to open your window to lower your indoor air pollution. Other sensors are not used as they can be misleading. For instance, some sensors measure "total VOCs", which basically is like adding peaches and apples as many VOCs are not harmful at all for human.```
 
 - Customers have named the product as a WiFi thermometer and a CO2 Monitor which is true to be honest. The product is overpriced for what it does.
-- Customers had trouble pairing the product with their apple devices. 
+- Customers had trouble pairing the product with their apple devices.
 
 ## Things to keep in mind for Sirius
 1. Ensure that the WiFi connection is stable under continuous use and it never drops.
