@@ -1,43 +1,35 @@
-
-
-
 # Philips Hue Go Teardown
 
 The file includes the various steps involved in the teardown of **Philips Hue Go** smart lamp and the information about the  different components used in it.
 
 ## Teardown Procedure
-1.
-![The base layer is pried open](images/Philips Hue Go/1.jpg)
+### 1. 
+![The base layer is pried open](/Teardown/images/Philips Hue Go/1.jpg)
 
 The base layer (Reflector/Light diffuser?) is pried open and the the 4 LEDs are exposed. It's expected that the LEDs are RGBW and are the primary components of the Philip Hue Go.
 
-2.
-![enter image description here](images/Philips Hue Go/2.jpg)
-The removal of the plastic casing exposes the PCB board which houses the LEDs and also the remaining components involved in the circuit.
+### 2.
+![](/Teardown/images/Philips Hue Go/2.jpg)
 
-3.
-![](images/Philips Hue Go/3.jpg)
+The removal of the plastic casing exposes the PCB board which houses the LEDs and also the remaining components involved in the circuit.
+### 3.
+![](/Teardown/images/Philips Hue Go/3.jpg)
 
 Beneath the PCB Board there's a metal weight which serves the purpose of balanceing the light in an inclined position and also in adding up to the weight of the lamp which otherwise would be too light.
 
-4.
-![
-](images/Philips Hue Go/4.jpg)
+###4.
+![](/Teardown/images/Philips Hue Go/4.jpg)
 
 Upon removal of the metal weight, we can see the battery holder and 2 X **3.7 V** AA Li-ion Batteries (14500 size battery each ***680mAh***). The lamp lasts for upto ***3 hours*** on battery.
 
-5.
-![
-](images/Philips Hue Go/5.jpg)
+### 5.
+![](/Teardown/images/Philips Hue Go/5.jpg)
 
 The image shows the battery holder and the connection which goes to the PCB. Beneath this board is a push button on the Hue go which controls the different modes of the lamp.
 
 
-
-
-
 ## PCB and Components
-![enter image description here](images/Philips Hue Go/6.jpg)
+![enter image description here](/Teardown/images/Philips Hue Go/6.jpg)
 
 The PCB does not seem to be too complicated but it is well designed and well laid out (as compared to the Roome Device which was also tore down on 18th September 2018).
 
@@ -59,10 +51,10 @@ The different possible circuits in the Main PCB are:
 
 # Comparison with Roome
 
- 1. The **Philips Hue Go** Circuit is not so complicated, neither are the components expensive. The market price of the product is way more than the actual production cost. The main highlight of the product is that it very ***elegent*** and it does its job perfectly. The product has an amazing finish and the light diffuser makes the light output really pleasant.
+The **Philips Hue Go** Circuit is not so complicated, neither are the components expensive. The market price of the product is way more than the actual production cost. The main highlight of the product is that it very ***elegent*** and it does its job perfectly. The product has an amazing finish and the light diffuser makes the light output really pleasant.
 
- On the other hand, the **Roome** product, which is offered by a Chinese company packs a lot of features into one product which costs almost the same price as the Philips Hue Go. It has
- -   Motion-sensor technology：IR Sensor
+On the other hand, the **Roome** product, which is offered by a Chinese company packs a lot of features into one product which costs almost the same price as the Philips Hue Go. It has
+-   Motion-sensor technology：IR Sensor
 -   Brightness adjustment: Using special ambient light sensing technology roome will automatically choose the perfect level of brightness (LDR used inside)
 -   Simple gesture-control operation: which does not function properly. Once we move the hand above its maximum operating range, it turns off (which is not the expected behaviour). When the hand is closest to the product it is at its lowest brightness and as we move up the brightness increases. But the product was operating erratically.
 -   Can work as a Power Bank - 2 X 5V 1 A USB ports
