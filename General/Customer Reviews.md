@@ -15,11 +15,15 @@
 
   - Produces a decent amount of light and the color range is amazing.
   - Minimalist clean design
+  - Lights up in 16 million colors
+  - Alarm and timer features
 
 
 3. Seamless Functioning
 
   - The [Hue Smart Bridge](https://www.amazon.com/Philips-Hue-Smart-Bridge-Compatible-with-Amazon-Alexa-Apple-HomeKit-and-Google-Assistant/dp/B014H2P42K/ref=cm_cr_dp_d_rvw_txt?ie=UTF8) and the [Hue Dimmer](https://www.amazon.com/Philips-Hue-Smart-Dimmer-Switch-with-Remote-Installation-Free-Exclusive-for-Philips-Hue-Lights/dp/B0167Z0P3I/ref=cm_cr_dp_d_rvw_txt?ie=UTF8) which in combo permit control by both the Hue Dimmer control or by using voice commands through Amazon's Echo works perfectly with the Hue Go.
+  - Works with IFTTT and many third-party Hue apps
+  - Ambify (third party app) lets you sync the Hue lights with iTunes music which was a feature upvoted by many customers
 
 
 
@@ -27,9 +31,13 @@
 - The product is not shock resistant and may or may not crack if it falls down since the build is from plastic and it can break.
 - The Philips Hue Go is said to last "up to 3 hours" on battery. That could only be possible if the light was set to the dimmest setting, which practically the majority won't do. Consequently, it has to be plugged in most of the time. And when its plugged in it doesn't sit up all that well, as the wire obstructs its default position and hence the light has to be kept such that the light is pointing straight up.
 - Due to its plastic build, the face scratches very easily. While the light still works, and the scratches don't affect the light, it doesn't feel that good to see the scratches when the light is off.
-- If not connected to the Hue Bridge, then the user is limited to the factory preset lighting settings.
+- To tap into the full potential of the Philips Hue Go, you’ll need a Bridge connected to your local network. If not connected to the Hue Bridge, then the user is limited to the factory preset lighting settings. Buying the $60 bridge adds a moderate amount of money to the overall cost of your investment.
 - While gently unplugging the power cord, the end of the cord easily broke off, leaving one half stuck in the plastic body of the light and the other half as live electrical wires coming from the DC power supply.
 ![](images/Philips Hue Go/1.png)
+- Basic and Mediocre app - The alarm and timer feature doesn't work properly (as reported by many users)
+- Non-replaceable battery and bulb
+
+
 
 ##### Wish List
 - One desire would be for the light to be brighter, however, the light level is comfortable for your eyes when in direct line of sight.
@@ -53,7 +61,7 @@
 
 - While it is advertised that all of the bulbs are compatible with the Amazon Echo Plus (which is a hub of its own) and that is TECHNICALLY true, you will not be able to control the bulbs fully (changing colors quickly and easily, using Hue Disco, Hue Mood, etc) unless you buy the Philips Hue Smart Hub IN ADDITION to the Echo Plus that you already paid a lot of money for.
 
-- For those looking at the bridge, if you only need to turn on and off the lights, just stick with the echo, it works great. If you need schedules or time settings for the lights, you'll need this but be ready for a little extra time and effort to get it going.
+- For those looking at the bridge, if you only need to turn on and off the lights, just stick with the echo, it works great. If you need schedules or time settings for the lights, you'll need this but be ready for a little  extra time and effort to get it going.
 
 
 ##### Wish List
