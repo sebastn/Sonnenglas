@@ -8,8 +8,8 @@
 
 1. Candlelight Effect
 
- 	- The Philips Hue Go supports the Candlelight effect feature as part of the HueLabs section in the Hue app and many users have reported that this is an awesome feature and are reeally happy with the effect.
- 	- The candle setting is the family favorite for most situations. The gentle flickering of soft yellow light is a great imitation of candle-light and a relaxing, much-used effect.
+    - The Philips Hue Go supports the Candlelight effect feature as part of the HueLabs section in the Hue app and many users have reported that this is an awesome feature and are reeally happy with the effect.
+    - The candle setting is the family favorite for most situations. The gentle flickering of soft yellow light is a great imitation of candle-light and a relaxing, much-used effect.
 
 2. Design, Light and Colour Range
 
