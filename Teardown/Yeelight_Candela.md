@@ -1,9 +1,8 @@
 # Yeelight Candela Teardown - EUR 49,99
 
 The documentation includes the procedure involved in the teardown of **Yeelight Candela** and an analysis of the various components used in the product.
+
 ![](images/Yeelight/Yeelight.png)
-
-
 
 ![](images/Yeelight/Specs.png)
 
