@@ -68,3 +68,18 @@ Friends of Hue partners also have access to many of the same hardware and softwa
 ![](images/friendsofhuebenefits.png)
 
 ![](images/friendsofhuebenefits2.png)
+
+
+# International Regulations
+
+In some parts of the world, electronic devices with radio technology need to be approved by local authorities before they are allowed to enter the market. This needs to be taken care before going into mass production.
+
+### Europe
+In Europe, the product need to carry the "CE mark" to show its confirmity with the european law. CE is a self-certification process and does not need an official authority to approve it.
+In order to make things sure or to guarantee customer's trust, companies like TÜV offer verification services.
+
+### USA
+In the US, FCC is the responsible authority to approve products with wireless technologies. For a full FCC approval, the costs will add up to 10.000$ after a short research.
+
+### Other parts of the world
+For most parts of the world, the product needs to show its fulfillment of local regularies by showing certificates of approved labratories. A good overview can be seen [here](https://www.elektronikpraxis.vogel.de/zertifikate-fuer-elektroprodukte-nach-nationalen-und-internationalen-standards-a-294954/).
