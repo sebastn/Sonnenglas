@@ -9,7 +9,7 @@ The documentation includes the procedure involved in the teardown of **Netatmo S
 ![](images/Netatmo/Specs.png)
 
 ## Teardown Procedure
-1.
+### 1.
 The Netatmo has an smooth finish and looks good overall. Pry open the plastic case (more kind of a snap on lid) to reveal the screws.
 
 ![](images/Netatmo/1_1.jpg)
@@ -19,7 +19,7 @@ Remove the screws to see the inside of the Netatmo.
 ![](images/Netatmo/1_2.jpg)
 
 
-2.
+### 2.
 Use some force to lift the assembly out of the casing.
 
 In other products, the WiFi/Bluetooth antenna was etched on the PCB itself, but for Netatmo, it is a metal wire which acts as the antenna. I don't know if it is stupid or genius.
@@ -34,7 +34,7 @@ There are two screws on both the ends keeping the two parts of the asembly toget
 
 ![](images/Netatmo/2_3.jpg)
 
-3.
+### 3.
 Separate the PCB from the plastic casing.
 
 ![](images/Netatmo/3_1.jpg)
@@ -58,7 +58,7 @@ infrared (NDIR) principle to detect the existence of CO2 in the air, with good s
 
 ![](images/Netatmo/3_2.jpg)
 
-4.
+### 4.
 The main MCU on the Netatmo is STM32F401 - Datasheet (https://goo.gl/oS7U3L)
 
 ![](images/Netatmo/4_1.jpg)
