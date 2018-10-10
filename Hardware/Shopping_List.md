@@ -25,5 +25,5 @@
 - [x] Seeed Studio Grove - I2C Touch Sensor
 - [x] Rotary Encoder - Illuminated (RGB) + Plastik-Drehknopf + Rotary Encoder Breakout - Illuminated
 - [x] Particle Power Shield
-- [ ] Anker PowerPort Wireless Charger
+- [x] Anker PowerPort Wireless Charger
 - [x] Universal Qi Wireless Charging Module 
