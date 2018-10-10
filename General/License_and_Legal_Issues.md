@@ -43,9 +43,6 @@ No, the logo may only be used in connection with commercial accessories that hav
 ### Synopsis on HomeKit
 1. If we want to get the "Works with Apple HomeKit" Certification, we need to join the MFi Program and clear the tests.
 2. If we want to have the MFi Certification, we need to pay a fee to complete the company identity verification.
-3.
-
-
 
 # Friends of Hue - Philips
 
@@ -68,7 +65,6 @@ Friends of Hue partners also have access to many of the same hardware and softwa
 ![](images/friendsofhuebenefits.png)
 
 ![](images/friendsofhuebenefits2.png)
-
 
 # International Regulations
 
