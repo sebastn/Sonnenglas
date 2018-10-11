@@ -11,7 +11,7 @@
 
 ## Development Kits
 - [x] STM32LF Discovery Kit IoT Node
-- [ ] LAUNCHXL-CC26X2R1 (2x)
+- [x] LAUNCHXL-CC26X2R1 (2x)
 - [x] nRF52840-DK (2x)
 - [x] nRF52840-Dongle (2x)
 - [ ] Raytac BT5 Module Demo Board (2x)
