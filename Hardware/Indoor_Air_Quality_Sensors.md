@@ -36,7 +36,7 @@ Adafruit has a CCS811 Library - https://github.com/adafruit/Adafruit_CCS811/arch
 It also works with Python & CircuitPython.
 The expected output on an Arduino is as follows:
 
-![](images/CCS811 output.png)
+![](images/CCS811_output.png)
 
 ### 2. SparkFun Air Quality Breakout - CCS811 - VOC and eCO2 - Unit Price - 16,89 €
 
@@ -82,7 +82,7 @@ It also works with Python & CircuitPython.
 
 The Sensor gives readings only in 1 minute intervals (no mode selection). They haven't mentioned about changing these intervals in the datasheet.
 
-![](images/SGP30 Output.png)
+![](images/SGP30_Output.png)
 
 
 ## Conclusion
