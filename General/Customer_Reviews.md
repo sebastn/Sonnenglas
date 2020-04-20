@@ -1,7 +1,7 @@
 # Customer Reviews
 
 ### Philips Hue Go
-[](images/Philips Hue Go/0.png)
+[](images/Philips_Hue_Go/0.png)
 
 ##### Pros
 1. Candlelight Effect
@@ -23,7 +23,7 @@
 - Due to its plastic build, the face scratches very easily. While the light still works, and the scratches don't affect the light, it doesn't feel that good to see the scratches when the light is off.
 - To tap into the full potential of the Philips Hue Go, you’ll need a Bridge connected to your local network. If not connected to the Hue Bridge, then the user is limited to the factory preset lighting settings. Buying the $60 bridge adds a moderate amount of money to the overall cost of your investment.
 - While gently unplugging the power cord, the end of the cord easily broke off, leaving one half stuck in the plastic body of the light and the other half as live electrical wires coming from the DC power supply.
-![](images/Philips Hue Go/1.png)
+![](images/Philips_Hue_Go/1.png)
 - Basic and Mediocre app - The alarm and timer feature doesn't work properly (as reported by many users)
 - Non-replaceable battery and bulb
 
@@ -67,7 +67,7 @@
 - The connecting cable is unfortunately a bit short.
 
 ### Roomelight Air Touch
-![](images/Roomelight Air Touch/0.jpg)
+![](images/Roomelight_Air_Touch/0.jpg)
 
 ##### Pros
 - The built-in speaker could be used as a wake-up alarm. However, the quality of the speaker is not that great.
@@ -83,7 +83,7 @@
 - The brightness adjustment using gesture control was erratic.
 
 ### Roomelight Mini Plus
-![](images/Roomelight Mini Plus/0.jpg)
+![](images/Roomelight_Mini_Plus/0.jpg)
 
 ##### Pros
 - The lamp is lightweight enough to carry easily.
@@ -95,7 +95,7 @@
 - Out of the few reviews on amazon, one customer soon returned the lamp stating that it was not user friendly - this might be because of the trouble in setting up the lamp. The Roome app is not good (the QR code on their user guide returns an error 404 and one should manually search and install the app) and the device pairing with the lamp is also not hassle free.
 
 ### Yeelight Candela
-![](images/Yeelight Candela/0.jpg)
+![](images/Yeelight_Candela/0.jpg)
 
 ##### Pros
 - Bluetooth mesh feature lets you control a group of Yeelight Candelas together. Group control was appreciated by many customers.
@@ -110,7 +110,7 @@
 - WiFi Capability and hence integration with Alexa, Siri or Google Home.
 
 ### Yeelight Smart Strip
-![](images/Yeelight Smart Strip/0.jpg)
+![](images/Yeelight_Smart_Strip/0.jpg)
 
 ##### Pros
 - Voice Control: work with Amazon Alexa, Google Assistant for voice control, and IFTTT
