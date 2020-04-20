@@ -1,7 +1,7 @@
 # Customer Reviews
 
 ### Philips Hue Go
-[](images/Philips_Hue_Go/0.png)
+![](images/Philips_Hue_Go/0.png)
 
 ##### Pros
 1. Candlelight Effect
@@ -32,7 +32,7 @@
 
 ### Philips Hue Bridge
 
-![](images/Philips Hue Bridge/0.png)
+![](images/Philips_Hue_Bridge/0.png)
 
 ##### Pros
 - Very simple to set up and sync with the app. Takes just less than 10 minutes.
@@ -129,7 +129,7 @@
 - HomeKit Integration
 
 ### Netatmo Healthy Home Coach
-![](images/Netatmo Healthy Home Coach/0.jpg)
+![](images/Netatmo_Healthy_Home_Coach/0.jpg)
 
 ##### Pros
 - Works with Apple HomeKit and Siri.
