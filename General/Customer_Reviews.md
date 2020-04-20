@@ -1,7 +1,7 @@
 # Customer Reviews
 
 ### Philips Hue Go
-![](images/Philips Hue Go/0.png)
+[](images/Philips Hue Go/0.png)
 
 ##### Pros
 1. Candlelight Effect
