@@ -8,7 +8,7 @@ This Wiki documents the technical development process of the Sonnenglas Sirius. 
 Shortlinks to sections
 
 - General Concept
-    - [General Technical Concept](https://github.com/sebastn/Sonnenglas/tree/master/General/Conceptional_Research)
+    - [General Technical Concept](https://github.com/sebastn/Sonnenglas/tree/master/General/Conceptional_Research.md)
     - [Feature List](https://github.com/sebastn/Sonnenglas/tree/master/General/Feature_List)
     - [Legal and License Issues](https://github.com/sebastn/Sonnenglas/tree/master/General/License_and_Legal_Issues)
     - [Customer Reviews](https://github.com/sebastn/Sonnenglas/tree/master/General/Customer_Reviews)
